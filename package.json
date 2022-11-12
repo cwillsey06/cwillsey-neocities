@@ -1,0 +1,31 @@
+{
+  "name": "neocities-cw",
+  "version": "1.0.0",
+  "description": "My Neocities website!",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwillsey06/neocities-cw.git"
+  },
+  "keywords": [
+    "neocities",
+    "website",
+    "coltrane",
+    "cwillsey"
+  ],
+  "author": "cwillsey06",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cwillsey06/neocities-cw/issues"
+  },
+  "homepage": "https://github.com/cwillsey06/neocities-cw#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss-cli": "^10.0.0",
+    "stylus": "^0.59.0",
+    "typescript": "^4.8.4"
+  }
+}
